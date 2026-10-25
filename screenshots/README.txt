@@ -1,0 +1,1 @@
+Project screenshots copied from this conversation. Review every image for public IP addresses, usernames, email addresses, tokens, or other sensitive information before pushing this repository to a public GitHub repo.

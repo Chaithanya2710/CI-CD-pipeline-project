@@ -1,0 +1,23 @@
+# Build outputs
+target/
+build/
+*.war
+*.jar
+
+# IDE and OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+credentials.xml
+settings-private.xml
+
+# Logs
+*.log
